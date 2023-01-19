@@ -13,7 +13,7 @@ http://www.phzd39jk.online/2023/01/14/solvePnP/
 src文件夹中，运行以下代码完成编译，并且添加环境变量：
 
 ```commandline
-cd ~/{workspace_name}/object-camera-transform
+cd ~/{workspace_name}
 catkin_make
 ```
 
